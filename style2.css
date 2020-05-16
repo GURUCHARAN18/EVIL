@@ -165,7 +165,7 @@ width: 120px;
     color: black;
     position: relative; 
     top: 260px;
-     left: 1100px; 
-     height: 20px;
-     width: 300px;
+     left: 1200px; 
+     height: fit-content;
+     width: fit-content;
 }
